@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GUItest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GUItest_jar</output-path>
+    <root id="archive" name="GUItest.jar">
+      <element id="module-output" name="GUItest" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
